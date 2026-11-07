@@ -1,0 +1,10 @@
+^E:\VALO BOGGIEE\BUILD\CMAKEFILES\3A86A1C99E0039BBB09BBF380EF84095\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/Valo Boggiee" "-BE:/Valo Boggiee/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/Valo Boggiee/build/ValoBoggiee.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

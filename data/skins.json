@@ -1,0 +1,18 @@
+﻿{
+  "_note": "UUIDs are placeholders until dumped from the build.",
+  "Vandal": [
+    { "name": "Prime Vandal",   "uuid": "00000000-0000-0000-0000-000000000001" },
+    { "name": "Reaver Vandal",  "uuid": "00000000-0000-0000-0000-000000000002" },
+    { "name": "Champions 2023", "uuid": "00000000-0000-0000-0000-000000000003" },
+    { "name": "Kuronami",       "uuid": "00000000-0000-0000-0000-000000000004" }
+  ],
+  "Phantom": [
+    { "name": "Oni Phantom",    "uuid": "00000000-0000-0000-0000-000000000005" },
+    { "name": "RGX Phantom",    "uuid": "00000000-0000-0000-0000-000000000006" },
+    { "name": "Araxys Phantom", "uuid": "00000000-0000-0000-0000-000000000007" }
+  ],
+  "Knife": [
+    { "name": "Champions Karambit", "uuid": "00000000-0000-0000-0000-000000000008" },
+    { "name": "Glitchpop Dagger",   "uuid": "00000000-0000-0000-0000-000000000009" }
+  ]
+}

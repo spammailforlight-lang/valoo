@@ -1,0 +1,18 @@
+﻿{
+  "_note": "RVAs relative to module base. Update after every patch. Scanned first, JSON is fallback.",
+  "uworld": 0,
+  "game_state": 0,
+  "local_controller": 0,
+  "actor_array": 0,
+  "actor_count": 0,
+  "camera_manager": 0,
+  "player_state": 0,
+  "team_id": 0,
+  "health": 0,
+  "spotted": 0,
+  "position": 0,
+  "bone_matrix": 0,
+  "weapon": 0,
+  "view_angles": 0,
+  "fov": 0
+}
